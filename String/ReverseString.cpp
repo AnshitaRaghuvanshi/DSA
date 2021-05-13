@@ -27,5 +27,5 @@ int main()
   // Using reverse function in stl
     reverse(str.begin(), str.end());
     cout<<str<<endl;
-
+    return 0;
 }
