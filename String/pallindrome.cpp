@@ -36,4 +36,5 @@ int main()
   cin>>str;
   ispallindromeN(str);
   ispallindromeE(str);
+  return 0;
 }
