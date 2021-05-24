@@ -1,5 +1,5 @@
 //Naive Pattern Searching Algo
-
+//TC O((n-m+1)*m)  AS O(1)
 #include <bits/stdc++.h>
 using namespace std;
 
